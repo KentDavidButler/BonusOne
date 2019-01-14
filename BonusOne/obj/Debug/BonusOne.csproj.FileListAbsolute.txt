@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\BonusOne\BonusOne\obj\Debug\BonusOne.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\BonusOne\BonusOne\obj\Debug\BonusOne.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\BonusOne\BonusOne\bin\Debug\BonusOne.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\BonusOne\BonusOne\bin\Debug\BonusOne.exe
+C:\Users\Administrator\source\repos\GrandCircus\BonusOne\BonusOne\bin\Debug\BonusOne.pdb
+C:\Users\Administrator\source\repos\GrandCircus\BonusOne\BonusOne\obj\Debug\BonusOne.exe
+C:\Users\Administrator\source\repos\GrandCircus\BonusOne\BonusOne\obj\Debug\BonusOne.pdb
