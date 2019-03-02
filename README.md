@@ -1,4 +1,4 @@
-Below the star line are the build specs for the programe. To complete the programe I decided to seperate the tens and hundereds position
+Below the line are the build specs for the programe. To complete the programe I decided to seperate the tens and hundereds position
 from the one's position. I could have done this by converting the numerical grade into a string, and then splitting the individual numeric
 positions off, and then convert that string back to a number. Instead, I decided to take advantage of the modulus and seperate off the
 numbers by using the remainders. This allowed me to feed each tens position into a switch to get the letter grade and each unit position
