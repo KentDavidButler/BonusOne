@@ -1,3 +1,5 @@
+3/25 Update: Decided to revisit this to refactor as much of the main program into sub classes and then add as much unit testing as I could think of to those classes.
+
 Below the line are the build specs for the programe. To complete the programe I decided to seperate the tens and hundereds position
 from the one's position. I could have done this by converting the numerical grade into a string, and then splitting the individual numeric
 positions off, and then convert that string back to a number. Instead, I decided to take advantage of the modulus and seperate off the
